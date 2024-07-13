@@ -11,7 +11,7 @@ $(".textbox input").focusout(function(){
 $(".textbox input").keyup(function(){
   var inputs = $(".textbox input");
   if(inputs[0].value != "" && inputs[1].value){
-    $(".login-btn").attr("disabled",false);
+ .   $(".login-btn").attr("disabled",false);
     $(".login-btn").addClass("active");
   }else{
     $(".login-btn").attr("disabled",true);
