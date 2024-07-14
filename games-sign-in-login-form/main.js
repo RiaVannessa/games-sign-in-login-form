@@ -16,5 +16,5 @@ $(".textbox input").keyup(function(){
   }else{
     $(".login-btn").attr("disabled",true);
     $(".login-btn").removeClass("active");
-  }
+  }.
 });
