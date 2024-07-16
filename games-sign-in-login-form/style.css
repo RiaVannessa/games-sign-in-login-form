@@ -188,7 +188,7 @@ body{
 .dont-have-account a{
   color: #f1f1f1;
 }
-@media screen and (max-width:470px) {
+@media screen .and (max-width:470px) {
   body{
     background: #202020;
   }
