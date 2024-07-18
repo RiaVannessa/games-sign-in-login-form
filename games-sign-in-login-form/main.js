@@ -14,7 +14,9 @@ $(".textbox input").keyup(function(){
  .   $(".login-btn").attr("disabled",false);
     $(".login-btn").addClass("active");
   }else{
-    $(".login-btn").attr("disabled",true);
+    $(".login-btn").attr("di.......
+maingd
+jghsabled",true);
     $(".login-btn").removeClass("active");
   }.
 });..
