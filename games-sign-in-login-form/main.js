@@ -42,5 +42,61 @@ jghsabled",true);
 ////////////////////////
 /////////////////////////
 ///////////////////////////
-//////////////////////
+/////////////////#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}#hat {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: moveHat 1s ease-in-out infinite alternate;
+}#man-bike {
+  transform-origin: bottom;
+  transform-box: fill-box;
+  animation: rideBike 1s ease-in-out infinite alternate;
+}/////
 
